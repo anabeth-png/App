@@ -34,8 +34,9 @@ apresentar os dados
 
 # operadores
 
-[x]operadores de atribuição de valor  =
-[x]operador de contatenação +
+[x]operadores de atribuição de valor:  =
+[x]operador de contatenação: +
+[x]operadores de comparação: ==, !=, <, >, <=, >= 
 
 ## estruturas de dados:
 
@@ -61,7 +62,12 @@ apresentar os dados
 # condicionais
 
 [x] switch
+[x]if/else
 
 # módulos em node.js:
 [x]importação de módulos (requirer, commonJS)
 [x]Biblioteca 'inquirer' para criar prompts interativos
+
+# programação assíncrona e promisses:
+
+[x]uso de funções assíncronas (async/await)
