@@ -1,0 +1,14 @@
+[
+  {
+    "value": "andar 20 minutos",
+    "checked": true
+  },
+  {
+    "value": "ir à academia",
+    "checked": false
+  },
+  {
+    "value": "tomar 3 L de água",
+    "checked": false
+  }
+]
