@@ -44,7 +44,7 @@ apresentar os dados
 ### arrays:
 
 [x]uma lista que contém qualquer tipo de dado
-[x]métodos de array: push, [find, forEach, filter] ; HOF (higher order functions)
+[x]métodos de array: push, [find, forEach, filter, map] ; HOF (higher order functions)
 
 ## objetos
 
